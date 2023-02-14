@@ -1,3 +1,16 @@
+/**
+ * Primeiramente estaremos ajustando o tamanho da tela ao redimensionar a 
+ * janela do navegador e, em seguida, criaremos imagens de mosquitos em 
+ * posições, tamanho e direção são aleatórios aleatórias na tela. A velocidade 
+ * com que os mosquitos aparecem depende do nível selecionado pelo player 
+ * (normal, difícil ou chuck-norris). 
+ * O player tem 15 segundos para clicar nos mosquitos antes que o jogo termine
+ * e vá para a tela de vitória. Cada vez que o player perde um mosquito, 
+ * suas vidas são decrementadas. Se o player esgotar todas as suas vidas antes 
+ * de chegar ao final do tempo, o jogo irá para a tela "fim de jogo". 
+ */
+
+
 let altura = 0;
 let largura = 0;
 let vidas = 1;
