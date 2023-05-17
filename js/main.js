@@ -1,7 +1,7 @@
 /**
  * Primeiramente estaremos ajustando o tamanho da tela ao redimensionar a 
  * janela do navegador e, em seguida, criaremos imagens de mosquitos em 
- * posições, tamanho e direção são aleatórios aleatórias na tela. A velocidade 
+ * posições, tamanho e direção aleatórias na tela. A velocidade 
  * com que os mosquitos aparecem depende do nível selecionado pelo player 
  * (normal, difícil ou chuck-norris). 
  * O player tem 15 segundos para clicar nos mosquitos antes que o jogo termine
